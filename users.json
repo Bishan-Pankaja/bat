@@ -1,10 +1,12 @@
 [
   {
     "username": "admin",
-    "password": "password123"
+    "password": "password123",
+    "motherboard_serial": "ABC123"
   },
   {
     "username": "1",
-    "password": "1"
+    "password": "1",
+    "motherboard_serial": "XYZ456"
   }
 ]
