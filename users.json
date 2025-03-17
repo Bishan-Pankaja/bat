@@ -8,5 +8,10 @@
     "username": "1",
     "password": "1",
     "motherboard_serial": ""
+  },
+  {
+    "username": "2",
+    "password": "2",
+    "motherboard_serial": ""
   }
 ]
